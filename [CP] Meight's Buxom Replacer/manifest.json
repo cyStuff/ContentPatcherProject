@@ -1,0 +1,13 @@
+{
+   "Name": "[CP] Meight's Buxom Replacer ",
+   "Author": "cybercheese",
+   "Version": "1.0",
+   "Description": "Buxom portrait replacer for Emily and Robin.",
+   "UniqueID": "cybercheese.SDVEmilyRobin",
+   "MinimumApiVersion": "3.0",
+   //"UpdateKeys": ["Nexus:1839"], 
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      "MinimumVersion": "1.9"
+   }
+}
