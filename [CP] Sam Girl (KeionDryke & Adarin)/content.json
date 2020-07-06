@@ -17,13 +17,7 @@
 			"Target": "Characters/Dialogue/Sam",
 			"Entries": {
 				"Introduction": "Hey, I'm Samantha, but you can call me Sam. Good to meet you.$h",
-				"Mon8": "'Sam' is short for 'Samantha'.$l#$e#Maybe that was obvious.",
-				"Wed10": "Um... I just wanted to say... You look nice today.$l^@. Hey buddy. You look like you're full of energy today!",
-				"Fri10": "The older I get the more attached I feel to the valley.#$b#Although I could be biased... for a certain reason.$l#$e#So, how are you doing today?$h",
-				"fall_Fri10": "I think I've grown to like the country more than the city.$h#$b#Although I could be biased... for a certain reason.$l#$e#So, how are you doing today?$h",
-				"Mon8": "'Sam' is short for 'Samantha'.$l#$e#Maybe that was obvious.",
-				"winter_7": "One time, Gus fell in the river during the Ice Festival. We had to build a huge fire in the saloon to dry him out.#$e#We were all worried we'd never taste his famous spaghetti ever again.#$e#",
-				"fall_Mon2": "I like taking walks in the forest this time of year. The temperature is so comfortable#$e#...$h"
+				"Mon8": "'Sam' is short for 'Samantha'.$l#$e#Maybe that was obvious."
 			}
 		},
 		{
