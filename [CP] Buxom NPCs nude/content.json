@@ -1,0 +1,120 @@
+{
+	"Format": "1.3",
+	"ConfigSchema": {
+		"Abigail": {
+            "AllowValues": "enabled, disabled",		
+        },
+		"Haley": {
+            "AllowValues": "enabled, disabled",		
+        }
+		"Leah": {
+            "AllowValues": "enabled, disabled",		
+        }
+		"Maru": {
+            "AllowValues": "enabled, disabled",		
+        }
+		"Penny": {
+            "AllowValues": "enabled, disabled",		
+        }
+    },
+	"Changes": [
+		{
+			"Action": "Load",
+			"Target": "Portraits/Abigail",
+			"FromFile": "assets/Portraits/Abigail.png",
+			"When": {
+				"Abigail": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Haley",
+			"FromFile": "assets/Portraits/Haley.png",
+			"When": {
+				"Haley": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Leah",
+			"FromFile": "assets/Portraits/Leah.png",
+			"When": {
+				"Leah": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Maru",
+			"FromFile": "assets/Portraits/Maru.png",
+			"When": {
+				"Maru": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Maru_Hospital",
+			"FromFile": "assets/Portraits/Maru_Hospital.png",
+			"When": {
+				"Maru": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Penny",
+			"FromFile": "assets/Portraits/Penny.png",
+			"When": {
+				"Penny": "enabled"
+			}
+		},
+		
+		
+		{
+			"Action": "Load",
+			"Target": "Characters/Abigail",
+			"FromFile": "assets/Characters/Abigail.png",
+			"When": {
+				"Abigail": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Haley",
+			"FromFile": "assets/Characters/Haley.png",
+			"When": {
+				"Haley": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Leah",
+			"FromFile": "assets/Characters/Leah.png",
+			"When": {
+				"Leah": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Maru",
+			"FromFile": "assets/Characters/Maru.png",
+			"When": {
+				"Maru": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Maru_Hospital",
+			"FromFile": "assets/Characters/Maru_Hospital.png",
+			"When": {
+				"Maru": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Penny",
+			"FromFile": "assets/Characters/Penny.png",
+			"When": {
+				"Penny": "enabled"
+			}
+		},
+	]
+}
