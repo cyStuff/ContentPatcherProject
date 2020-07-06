@@ -45,6 +45,7 @@
 			"Target": "Characters/Dialogue/Jodi",
 			"Entries": {
 				"fall_Thu": "Maybe I've spoiled the kids a bit. They've never had to do any chores.#$e#I guess I want them to be able to enjoy their childhood while they still can. Well, Sam's basically a woman now, though.#$b#I hope she hasn't grow up to be lazy. That won't do.$s#$e#Being a parent isn't very easy.",
+				"fall_Thu_inlaw_Sam": "Is Sam just bumming around the farm, or is she contributing?",
 				"winter_Thu_inlaw_Sam": "How's Sam doing? I have to admit, there's less cooking and cleaning to do since she moved out...",
 				"winter_Thu": "Sam makes a lot of noise with that music of hers. I hope it doesn't disturb the neighbors.",
 				"Thu6": "Where does all the time go? *sigh*#$e#I remember when Sam was a little baby wearing diapers. She was such a cute little kid.$s#$e#Don't tell her I said that.$h#$e#You must really like talking to me, huh?"
@@ -86,5 +87,13 @@
 				"Mon": "I wanna be just like my big sister when I grow up!$h#$e#Okay! Bye!"
 			}
 		},
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Kent",
+			"Entries": {
+				"Thu": "Are you friends with my daughter?#$e#You probably know her better than I do...$s",
+				"Thu6": "#$1 Kent1#I've been up since 4 o'clock... sometimes I wonder if I'll ever get back into a normal routine.$k#$e#Sam has really grown up since I left. She's a woman now.#$e#I wish I could've been there for her.$s"
+			}
+		}
 	]
 }
