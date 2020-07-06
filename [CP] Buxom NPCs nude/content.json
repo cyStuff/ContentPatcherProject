@@ -6,13 +6,13 @@
         },
 		"Haley": {
             "AllowValues": "enabled, disabled",		
-        }
+        },
 		"Leah": {
             "AllowValues": "enabled, disabled",		
-        }
+        },
 		"Maru": {
             "AllowValues": "enabled, disabled",		
-        }
+        },
 		"Penny": {
             "AllowValues": "enabled, disabled",		
         }
@@ -115,6 +115,6 @@
 			"When": {
 				"Penny": "enabled"
 			}
-		},
+		}
 	]
 }
