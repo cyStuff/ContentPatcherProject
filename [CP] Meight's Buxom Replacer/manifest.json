@@ -1,9 +1,9 @@
 {
    "Name": "[CP] Meight's Buxom Replacer ",
-   "Author": "cybercheese",
+   "Author": "CyTheGuy01",
    "Version": "1.0",
    "Description": "Buxom portrait replacer for Emily and Robin.",
-   "UniqueID": "cybercheese.SDVEmilyRobin",
+   "UniqueID": "CyTheGuy01.SDVEmilyRobin",
    "MinimumApiVersion": "3.0",
    //"UpdateKeys": ["Nexus:1839"], 
    "ContentPackFor": {

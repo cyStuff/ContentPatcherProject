@@ -1,9 +1,9 @@
 {
    "Name": "Buxom NPCs nude Content Patcher (AirplaneRandy, vork88, & Yunix)",
-   "Author": "cybercheese",
+   "Author": "CyTheGuy01",
    "Version": "1.0.1",
    "Description": "Changes some of the female npc's to being nude.",
-   "UniqueID": "cybercheese.SDVBuxomNude",
+   "UniqueID": "CyTheGuy01.SDVBuxomNude",
    "MinimumApiVersion": "3.0",
    "UpdateKeys": ["Nexus:6417"], 
    "ContentPackFor": {

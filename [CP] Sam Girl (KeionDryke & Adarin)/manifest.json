@@ -1,9 +1,9 @@
 {
    "Name": "Sam Girl",
-   "Author": "cybercheese",
+   "Author": "CyTheGuy01",
    "Version": "1.1.1",
    "Description": "Replaces Sam with a girl named... Sam.",
-   "UniqueID": "cybercheese.SDVSamGirl",
+   "UniqueID": "CyTheGuy01.SDVSamGirl",
    "MinimumApiVersion": "3.0",
    "UpdateKeys": ["Nexus:6400"], 
    "ContentPackFor": {
