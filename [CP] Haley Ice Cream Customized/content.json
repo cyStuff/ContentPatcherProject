@@ -11,7 +11,7 @@
 		},
 		{
 			"Action": "EditImage",
-			"Target": "TileSheets",
+			"Target": "TileSheets/Weapons",
 			"FromFile": "assets/TileSheets/Iron.png",
 			"ToArea": { "X": 32, "Y": 80, "Width": 16, "Height": 16 }
 		},
