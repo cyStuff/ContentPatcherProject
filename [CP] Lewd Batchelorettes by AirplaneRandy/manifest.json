@@ -5,7 +5,7 @@
    "Description": "Lewd Bachelorettes by AirplaneRandy",
    "UniqueID": "CyTheGuy01.SDV",
    "MinimumApiVersion": "3.0",
-   //"UpdateKeys": ["Nexus:"], 
+   "UpdateKeys": ["Nexus:6441"], 
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher",
       "MinimumVersion": "1.9"
