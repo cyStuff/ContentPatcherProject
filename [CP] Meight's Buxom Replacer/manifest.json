@@ -5,7 +5,7 @@
    "Description": "Buxom portrait replacer for Emily and Robin.",
    "UniqueID": "CyTheGuy01.SDVEmilyRobin",
    "MinimumApiVersion": "3.0",
-   //"UpdateKeys": ["Nexus:1839"], 
+   "UpdateKeys": ["Nexus:6385"], 
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher",
       "MinimumVersion": "1.9"
