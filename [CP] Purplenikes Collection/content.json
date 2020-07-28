@@ -1,0 +1,53 @@
+{
+	"Format": "1.3",
+
+	"ConfigSchema": {
+		"Caroline": {
+            "AllowValues": "enabled, disabled",		
+        },
+		"Jodi": {
+            "AllowValues": "enabled, disabled",		
+        },
+		"Robin": {
+            "AllowValues": "enabled, disabled",		
+        },
+		"Sandy": {
+            "AllowValues": "enabled, disabled",		
+        }
+    },
+	
+	"Changes": [
+		{
+			"Action": "Load",
+			"Target": "Portraits/Caroline",
+			"FromFile": "assets/Caroline.png",
+			"When": {
+				"Caroline": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Jodi",
+			"FromFile": "assets/Jodi.png",
+			"When": {
+				"Jodi": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Robin",
+			"FromFile": "assets/Robin.png",
+			"When": {
+				"Robin": "enabled"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Sandy",
+			"FromFile": "assets/Sandy.png",
+			"When": {
+				"Sandy": "enabled"
+			}
+		}
+	]
+}

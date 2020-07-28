@@ -1,0 +1,13 @@
+{
+   "Name": "purplenikes Collection",
+   "Author": "CyTheGuy01",
+   "Version": "1.0",
+   "Description": "Adds purplenikes' portraits into the game with content patcher",
+   "UniqueID": "CyTheGuy01.SDVpurplenikes",
+   "MinimumApiVersion": "3.0",
+   "UpdateKeys": ["Nexus:6545"], 
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      "MinimumVersion": "1.9"
+   }
+}
